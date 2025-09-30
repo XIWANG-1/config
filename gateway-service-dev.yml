@@ -15,6 +15,9 @@ spring:
       profile: dev
       label: main
 
+  my:
+    message: "Hello from Remote Config Server!"
+
 #    gateway:
 #      discovery:
 #        locator:
